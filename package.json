@@ -1,0 +1,21 @@
+{
+  "name": "workspace",
+  "version": "0.0.0",
+  "description": "CL WORKSHOP",
+  "main": "index.js",
+  "scripts": {},
+  "author": "",
+  "dependencies": {
+    "cheerio": "~0.20.0",
+    "coderslab_fertestlibs": "git+https://student:_PusxHrMwbc5MpxbXP18@gitlab.com/coderslab-core/fer_test_libs.git",
+    "esprima": "^4.0.1",
+    "fs": "0.0.1-security",
+    "json-server": "^0.14.2",
+    "mocha": "^5.2.0",
+    "path": "^0.12.7",
+    "puppeteer": "^1.8.0",
+    "remote-origin-url": "^2.0.0",
+    "rewire": "^4.0.1",
+    "sinon": "^6.3.5"
+  }
+}
